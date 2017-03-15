@@ -1,0 +1,3 @@
+rootProject.name = 'Navigation_for_github'
+
+include ':app'
