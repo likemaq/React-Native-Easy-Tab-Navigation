@@ -21,10 +21,10 @@ react-native run-android
 
 ## Built With
 
-* [Github](https://github.com/aksonov/react-native-router-flux) - React-native-router-flux
+* [React-native-router-flux](https://github.com/aksonov/react-native-router-flux)
 
 ## Acknowledgments
 
-* [Github](https://github.com/zengxiang/tourism-tab-nav) - zengxiang
+* [zengxiang](https://github.com/zengxiang/tourism-tab-nav) 
 
 
