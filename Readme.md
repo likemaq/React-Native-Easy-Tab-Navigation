@@ -1,1 +1,1 @@
-![Home Page](/img/Home_page.png | width=100)
+![](./img/Home_page.png =250x250)
