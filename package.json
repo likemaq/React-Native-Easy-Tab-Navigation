@@ -9,7 +9,6 @@
   "dependencies": {
     "react": "~15.4.1",
     "react-native": "0.42.0",
-    "react-native-easy-grid": "^0.1.8",
     "react-native-router-flux": "^3.38.0"
   },
   "devDependencies": {
