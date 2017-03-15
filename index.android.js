@@ -1,4 +1,4 @@
 import { AppRegistry } from 'react-native';
 import index from './app/index';
 
-AppRegistry.registerComponent('Navigation_for_github', () => index);
+AppRegistry.registerComponent('React-Native-Easy-Tab-Navigation', () => index);
